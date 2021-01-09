@@ -1,5 +1,23 @@
 print("Hello World!")
-counties =("Denver","Jefferson")
-counties
+counties=["Araphahoe","Denver","Jefferson"]
 print(counties)
 counties.append("El Paso")
+print(counties)
+counties.pop(3)
+print(counties)
+counties[2]="El Paso"
+print(counties)
+counties.append("Jefferson")
+counties.insert(1,"El Paso")
+print(counties)
+counties.pop(3)
+print(counties)
+counties.pop(0)
+counties.insert(2,"Denver")
+counties.insert(1,"Jefferson")
+counties.append("Arapahoe")
+print(counties)
+
+counties_tuple = ("Arapahoe","Denver","Jefferson")
+len(counties_tuple)
+print(counties_tuple[1])
