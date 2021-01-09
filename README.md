@@ -2,6 +2,8 @@
 ## Overview of Election Audit:
 The purpose of this analysis was to develop skills in python that can be applicable in a work setting. For this example, we used Python to take large amounts of raw data, and conduct various analyses to determine the winner of an election in real time. This process allows counties to use repeatable code that can identify % of vote and winner in any election.
 
+![Election Results](Resources/election_results.png)
+
 ## Election-Audit Results: 
 As far as the results of the election, there are a few results that standout from the final tally:
 
